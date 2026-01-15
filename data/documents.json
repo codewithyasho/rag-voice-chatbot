@@ -1,0 +1,17 @@
+[
+  {
+    "id": "doc_001",
+    "title": "Introduction to Machine Learning",
+    "content": "Machine learning is a subset of AI that enables systems to learn from data."
+  },
+  {
+    "id": "doc_002",
+    "title": "Supervised Learning",
+    "content": "Supervised learning uses labelled data to train predictive models."
+  },
+  {
+    "id": "doc_003",
+    "title": "Unsupervised Learning",
+    "content": "Unsupervised learning finds hidden patterns in unlabelled data."
+  }
+]

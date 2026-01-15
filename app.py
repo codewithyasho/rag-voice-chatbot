@@ -30,7 +30,8 @@ AUDIO_OUTPUT_FILE = "audio_output.mp3"
 st.set_page_config(
     page_title="AI RAG Assistant",
     page_icon="🤖",
-    layout="centered"
+    layout="centered",
+    initial_sidebar_state="expanded",
 )
 
 # Initialize session state
